@@ -1,0 +1,78 @@
+body{
+    line-height: 2em;
+    background-color: rgb(184, 177, 177);
+    width: 95%;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.menu{
+    list-style: none;
+  margin: 1em;
+  padding: 10px 10px 10px;
+  text-align: center;
+  }
+  a {text-decoration: none;}
+  li{
+      display: inline;
+  }
+h2{
+    width: 100%;
+    margin: 0 auto;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+.name{
+    font-weight: bold;
+}
+ul{
+    display: block;
+    margin: 0;
+    padding-left: 0;
+}
+.cont-info{
+    margin-bottom: 1em;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: right;
+}
+  .container{
+      max-width: 1024px;
+  }
+img{
+    box-align: right;
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    margin-top: 1em;
+}
+#contact-info{
+    margin-bottom: 1em;
+    text-align: right;
+}
+#general-info{
+    margin-bottom: 1em;
+    text-align: left;
+}
+#skills{
+    margin-bottom: 1em;
+    text-align: left;
+}
+#experience{
+    margin-bottom: 1em;
+    text-align: left;
+}
+#education{
+    margin-bottom: 1em;
+    text-align: left;
+}
+.mailto{
+    visibility: visible;
+    margin-bottom: 1em;
+    text-align: center;
+}
